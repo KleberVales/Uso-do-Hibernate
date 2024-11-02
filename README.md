@@ -11,5 +11,8 @@
 ### Cache no Hibernate
 ### Validação de Dados
 ### Otimização de Desempenho
+### Integração com o Spring Framework
+###  Ferramentas e Práticas de Depuração
+
 
 
