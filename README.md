@@ -10,5 +10,6 @@
 ### Gerenciamento de Transações
 ### Cache no Hibernate
 ### Validação de Dados
+### Otimização de Desempenho
 
 
