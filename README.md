@@ -32,6 +32,10 @@
 - Diferenciação entre Session e EntityManager
   
 ### Consultas com Hibernate
+- Linguagem de consulta do Hibernate (HQL - Hibernate Query Language)
+- Consultas com Criteria API (para consultas dinâmicas)
+- Uso de Native SQL Queries e Named Queries
+
 ### Gerenciamento de Transações
 ### Cache no Hibernate
 ### Validação de Dados
