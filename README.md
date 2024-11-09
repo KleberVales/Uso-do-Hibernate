@@ -12,6 +12,10 @@
 - Propriedades principais (dialeto, pool de conexões, cache)
   
 ### Mapeamento de entidades e anotações
+- Como mapear classes Java para tabelas no banco de dados
+- Anotações essenciais: @Entity, @Table, @Id, @GeneratedValue, @Column
+- Estratégias de geração de ID (Auto, Sequence, Identity)
+  
 ### Mapeamento de relacionamento entre entidades
 ### Herança e Polimorfismo
 ### Operações CRUD com Hibernate
