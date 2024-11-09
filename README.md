@@ -55,6 +55,8 @@
 - Uso de Spring Data JPA para simplificar o acesso ao banco
   
 ###  Ferramentas e Práticas de Depuração
+- Configuração de logs de SQL (para monitorar consultas)
+- Análise de performance e troubleshooting de problemas comuns
 
 
 
