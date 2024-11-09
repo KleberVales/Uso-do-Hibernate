@@ -45,7 +45,15 @@
 - Validações comuns: @NotNull, @Size, @Pattern
   
 ### Validação de Dados
+- Estratégias de fetching: lazy e eager loading
+- Redução de consultas N+1
+- Uso de índices no banco de dados e otimização de consultas
+  
 ### Otimização de Desempenho
+- Configuração do Hibernate com Spring Boot e Spring Data JPA
+- Anotações @Repository e @Transactional
+- Uso de Spring Data JPA para simplificar o acesso ao banco
+  
 ### Integração com o Spring Framework
 ###  Ferramentas e Práticas de Depuração
 
