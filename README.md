@@ -27,6 +27,10 @@
 - Como usar anotações como @Inheritance, @DiscriminatorColumn, @DiscriminatorValue
 
 ### Operações CRUD com Hibernate
+- Inserção, atualização, exclusão e busca de dados no banco
+- Métodos da API Session (save, update, delete, get, load)
+- Diferenciação entre Session e EntityManager
+  
 ### Consultas com Hibernate
 ### Gerenciamento de Transações
 ### Cache no Hibernate
