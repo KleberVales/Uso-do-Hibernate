@@ -6,6 +6,11 @@
 - Comparação com JDBC e vantagens do uso do Hibernate
   
 ### Configuração do Hibenate
+- Estrutura de um projeto com Hibernate
+- Configuração usando o arquivo hibernate.cfg.xml
+- Configuração com persistence.xml (para uso com JPA)
+- Propriedades principais (dialeto, pool de conexões, cache)
+  
 ### Mapeamento de entidades e anotações
 ### Mapeamento de relacionamento entre entidades
 ### Herança e Polimorfismo
