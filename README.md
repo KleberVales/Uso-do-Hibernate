@@ -41,6 +41,9 @@
 - Uso de transações com @Transactional (Spring) e controle explícito
 
 ### Cache no Hibernate
+- Integração com Bean Validation (JSR-303)
+- Validações comuns: @NotNull, @Size, @Pattern
+  
 ### Validação de Dados
 ### Otimização de Desempenho
 ### Integração com o Spring Framework
