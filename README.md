@@ -17,12 +17,15 @@
 - Estratégias de geração de ID (Auto, Sequence, Identity)
   
 ### Mapeamento de relacionamento entre entidades
-- Tipos de relacionamentos (One-to-One, One-to-Many, Many-to-One, Many-toMany)
+- Tipos de relacionamentos (One-to-One, One-to-Many, Many-to-One, Many-to-Many)
 - Anotações de relacionamento: @OneToOne, @OneToMany, @ManyToOne, @ManyToMany
 - Cascade e FetchType (Lazy vs. Eager Loading)
 - Configuração de chave estrangeira e propriedades de união (joinColumns)
 
 ### Herança e Polimorfismo
+- Estratégias de mapeamento de herança (SINGLE_TABLE, JOINED, TABLE_PER_CLASS)
+- Como usar anotações como @Inheritance, @DiscriminatorColumn, @DiscriminatorValue
+
 ### Operações CRUD com Hibernate
 ### Consultas com Hibernate
 ### Gerenciamento de Transações
