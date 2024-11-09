@@ -37,6 +37,9 @@
 - Uso de Native SQL Queries e Named Queries
 
 ### Gerenciamento de Transações
+- Conceito de transação e seu controle no Hibernate
+- Uso de transações com @Transactional (Spring) e controle explícito
+
 ### Cache no Hibernate
 ### Validação de Dados
 ### Otimização de Desempenho
