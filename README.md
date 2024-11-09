@@ -39,22 +39,21 @@
 ### Gerenciamento de Transações
 - Conceito de transação e seu controle no Hibernate
 - Uso de transações com @Transactional (Spring) e controle explícito
-
-### Cache no Hibernate
-- Integração com Bean Validation (JSR-303)
-- Validações comuns: @NotNull, @Size, @Pattern
   
 ### Validação de Dados
+- Integração com Bean Validation (JSR-303)
+- Validações comuns: @NotNull, @Size, @Pattern
+    
+### Otimização de Desempenho
 - Estratégias de fetching: lazy e eager loading
 - Redução de consultas N+1
 - Uso de índices no banco de dados e otimização de consultas
-  
-### Otimização de Desempenho
+    
+### Integração com o Spring Framework
 - Configuração do Hibernate com Spring Boot e Spring Data JPA
 - Anotações @Repository e @Transactional
 - Uso de Spring Data JPA para simplificar o acesso ao banco
   
-### Integração com o Spring Framework
 ###  Ferramentas e Práticas de Depuração
 
 
