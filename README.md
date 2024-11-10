@@ -1,7 +1,8 @@
 # Uso do Hibernate
 
 ### Introdução ao Hibernate
-- O que é Hibernate e ORM (Object-Relational Mapping)\
+- O que é Hibernate e ORM (Object-Relational Mapping)
+  
   Hibernate é um framework de mapeamento objeto-relacional (ORM) para Java que facilita a integração entre aplicações Java e bancos de dados relacionais. Ele faz parte do ecossistema JPA (Java Persistence API) e é um dos provedores de persistência mais populares e amplamente utilizados na comunidade Java. A principal função do Hibernate é simplificar a manipulação e persistência de dados, permitindo que os desenvolvedores trabalhem com objetos Java em vez de comandos SQL complexos.
   
 - Benefícios e limitações do Hibernate 
