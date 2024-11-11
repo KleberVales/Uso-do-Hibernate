@@ -43,6 +43,9 @@
      * Hibernate: Possui HQL (Hibernate Query Language) e uma camada de abstração que permite que a aplicação seja mais facilmente transferida entre diferentes bancos de dados com alterações mínimas.
     
   4. Gerenciamento de Transações:
+ 
+     * JDBC: O desenvolvedor é responsável por todo o controle de transações, incluindo commits e rollbacks.
+     * Hibernate: O gerenciamento de transações é integrado, o que simplifica o código e reduz a probabilidade de erros.
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
