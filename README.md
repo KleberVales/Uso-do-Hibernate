@@ -26,6 +26,13 @@
 - Comparação com JDBC e vantagens do uso do Hibernate
 
   Comparar o Hibernate com o JDBC (Java Database Connectivity) ajuda a entender melhor as vantagens que um ORM como o Hibernate pode trazer em relação ao uso de um framework de acesso a banco de dados mais básico e direto como o JDBC.
+
+  1. Nível de Abstração:
+ 
+     * JDBC: É uma API de mais baixo nível para comunicação direta com o banco de dados, onde os desenvolvedores precisam escrever SQL manualmente e gerenciar explicitamente a conexão, a execução de consultas e o mapeamento de resultados para objetos Java.
+     * Hibernate: É um framework de ORM de alto nível que abstrai a maior parte da interação com o banco de dados. Os desenvolvedores trabalham com objetos Java diretamente, enquanto o Hibernate se encarrega de traduzir essas operações em comandos SQL.
+    
+  2. Produtividade e Facilidade de Uso:
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
