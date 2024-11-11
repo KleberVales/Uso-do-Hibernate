@@ -41,6 +41,8 @@
  
      * JDBC: Consultas SQL específicas podem variar de acordo com o banco de dados, o que pode dificultar a portabilidade de uma aplicação.
      * Hibernate: Possui HQL (Hibernate Query Language) e uma camada de abstração que permite que a aplicação seja mais facilmente transferida entre diferentes bancos de dados com alterações mínimas.
+    
+  4. Gerenciamento de Transações:
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
