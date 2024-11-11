@@ -51,6 +51,19 @@
  
      * JDBC: Não oferece suporte de caching nativo; otimizações devem ser implementadas manualmente.
      * Hibernate: Possui caching de primeiro e segundo nível, melhorando a performance por meio do armazenamento de dados já consultados, o que reduz o número de acessos diretos ao banco de dados.
+    
+  6. Consultas:
+ 
+     * JDBC: Consultas são escritas diretamente em SQL, o que pode ser mais flexível em casos complexos, mas requer mais código.
+     * Hibernate: Oferece HQL e Criteria API, que permitem consultas orientadas a objetos. No entanto, também suporta SQL nativo quando necessário.
+
+Quando usar JDBC ou Hibernate?
+
+Use JDBC quando o projeto for pequeno, ou para casos em que o controle detalhado de consultas SQL e de desempenho é crítico.
+
+Use Hibernate para projetos de médio a grande porte onde a produtividade, o desenvolvimento rápido e o mapeamento de objetos são importantes.
+
+A escolha entre Hibernate e JDBC depende das necessidades específicas do projeto e do nível de abstração desejado.
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
