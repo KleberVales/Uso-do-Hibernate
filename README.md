@@ -46,6 +46,8 @@
  
      * JDBC: O desenvolvedor é responsável por todo o controle de transações, incluindo commits e rollbacks.
      * Hibernate: O gerenciamento de transações é integrado, o que simplifica o código e reduz a probabilidade de erros.
+    
+  5. Caching e Performance:
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
