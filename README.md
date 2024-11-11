@@ -24,6 +24,8 @@
     6. Limitação em consultas SQL complexas: Embora o Hibernate ofereça HQL, consultas altamente complexas ou específicas de banco de dados podem ser difíceis de representar, sendo necessário recorrer a consultas nativas.
     
 - Comparação com JDBC e vantagens do uso do Hibernate
+
+  Comparar o Hibernate com o JDBC (Java Database Connectivity) ajuda a entender melhor as vantagens que um ORM como o Hibernate pode trazer em relação ao uso de um framework de acesso a banco de dados mais básico e direto como o JDBC.
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
