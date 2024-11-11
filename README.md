@@ -57,7 +57,7 @@
      * JDBC: Consultas são escritas diretamente em SQL, o que pode ser mais flexível em casos complexos, mas requer mais código.
      * Hibernate: Oferece HQL e Criteria API, que permitem consultas orientadas a objetos. No entanto, também suporta SQL nativo quando necessário.
 
-Quando usar JDBC ou Hibernate?
+- Quando usar JDBC ou Hibernate?
 
 Use JDBC quando o projeto for pequeno, ou para casos em que o controle detalhado de consultas SQL e de desempenho é crítico.
 
