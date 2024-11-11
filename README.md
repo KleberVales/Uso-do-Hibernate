@@ -16,6 +16,12 @@
     7. Lazy Loading: Carrega apenas os dados necessários sob demanda, ajudando a otimizar o uso de recursos.
 
   * Limitações do Hibernate
+    1. Curva de aprendizado: A configuração e o entendimento do mapeamento podem ser complexos para iniciantes, exigindo conhecimento detalhado sobre como o Hibernate funciona.
+    2. Sobrecarga de desempenho: O uso de mapeamentos e abstrações pode introduzir sobrecarga e afetar o desempenho em alguns casos. Ajustes de performance, como tuning de cache e otimização de consultas, podem ser necessários.
+    3. Configuração complexa: Projetos maiores podem exigir arquivos de configuração extensos e mapeamentos complexos, tornando a manutenção mais trabalhosa.
+    4. Problemas de Lazy Initialization: O uso impróprio de Lazy Loading pode levar a exceções de inicialização preguiçosa (LazyInitializationException) se os objetos não forem carregados corretamente antes do fechamento da sessão.
+    5. Dependência de Anotações: O uso excessivo de anotações pode tornar o código mais acoplado ao framework e dificultar a leitura.
+    6. Limitação em consultas SQL complexas: Embora o Hibernate ofereça HQL, consultas altamente complexas ou específicas de banco de dados podem ser difíceis de representar, sendo necessário recorrer a consultas nativas.
     
 - Comparação com JDBC e vantagens do uso do Hibernate
   
