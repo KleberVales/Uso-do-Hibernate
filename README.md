@@ -36,6 +36,11 @@
  
      * JDBC: Exige muito mais código boilerplate, como a abertura e fechamento de conexões, tratamento de exceções e mapeamento de resultados para objetos.
      * Hibernate: Reduz significativamente a quantidade de código repetitivo, melhorando a produtividade com recursos como mapeamento automático de objetos, caching e gestão de transações.
+    
+  3. Portabilidade:
+ 
+     * JDBC: Consultas SQL específicas podem variar de acordo com o banco de dados, o que pode dificultar a portabilidade de uma aplicação.
+     * Hibernate: Possui HQL (Hibernate Query Language) e uma camada de abstração que permite que a aplicação seja mais facilmente transferida entre diferentes bancos de dados com alterações mínimas.
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
