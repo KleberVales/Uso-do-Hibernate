@@ -48,6 +48,9 @@
      * Hibernate: O gerenciamento de transações é integrado, o que simplifica o código e reduz a probabilidade de erros.
     
   5. Caching e Performance:
+ 
+     * JDBC: Não oferece suporte de caching nativo; otimizações devem ser implementadas manualmente.
+     * Hibernate: Possui caching de primeiro e segundo nível, melhorando a performance por meio do armazenamento de dados já consultados, o que reduz o número de acessos diretos ao banco de dados.
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
