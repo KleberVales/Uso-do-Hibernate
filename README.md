@@ -14,6 +14,8 @@
     5. HQL (Hibernate Query Language): Oferece uma linguagem de consulta própria que é independente de banco de dados, mas permite uso de consultas complexas com uma sintaxe orientada a objetos.
     6. Mapeamento flexível: Permite a configuração de relacionamentos complexos, como herança, associações e composições.
     7. Lazy Loading: Carrega apenas os dados necessários sob demanda, ajudando a otimizar o uso de recursos.
+
+    * Limitações do Hibernate
     
 - Comparação com JDBC e vantagens do uso do Hibernate
   
