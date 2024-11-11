@@ -33,6 +33,8 @@
      * Hibernate: É um framework de ORM de alto nível que abstrai a maior parte da interação com o banco de dados. Os desenvolvedores trabalham com objetos Java diretamente, enquanto o Hibernate se encarrega de traduzir essas operações em comandos SQL.
     
   2. Produtividade e Facilidade de Uso:
+ 
+     * JDBC: Exige muito mais código boilerplate, como a abertura e fechamento de conexões, tratamento de exceções e mapeamento de resultados para objetos.
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
