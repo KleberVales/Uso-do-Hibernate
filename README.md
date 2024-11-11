@@ -15,7 +15,7 @@
     6. Mapeamento flexível: Permite a configuração de relacionamentos complexos, como herança, associações e composições.
     7. Lazy Loading: Carrega apenas os dados necessários sob demanda, ajudando a otimizar o uso de recursos.
 
-    * Limitações do Hibernate
+  * Limitações do Hibernate
     
 - Comparação com JDBC e vantagens do uso do Hibernate
   
