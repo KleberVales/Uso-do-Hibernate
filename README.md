@@ -7,6 +7,7 @@
   
 - Benefícios e limitações do Hibernate
   * Benefícios do Hibernate
+    1. Abstração de SQL: Hibernate reduz a quantidade de código SQL explícito, permitindo que os desenvolvedores trabalhem com objetos Java em vez de escrever instruções SQL diretamente.
     
 - Comparação com JDBC e vantagens do uso do Hibernate
   
