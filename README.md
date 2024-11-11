@@ -35,6 +35,7 @@
   2. Produtividade e Facilidade de Uso:
  
      * JDBC: Exige muito mais código boilerplate, como a abertura e fechamento de conexões, tratamento de exceções e mapeamento de resultados para objetos.
+     * Hibernate: Reduz significativamente a quantidade de código repetitivo, melhorando a produtividade com recursos como mapeamento automático de objetos, caching e gestão de transações.
   
 ### Configuração do Hibenate
 - Estrutura de um projeto com Hibernate
